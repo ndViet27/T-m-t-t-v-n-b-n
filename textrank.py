@@ -64,3 +64,4 @@ summary = " ".join([sentence for _, sentence in ranked_sentences[:num_sentences]
 print("Tóm tắt văn bản:")
 print(summary)
 
+
